@@ -19,7 +19,7 @@ def unir_pdf(output_path, documents):
 
 
 # FRONT --------------------
-st.image("/assets/pdf.png", width=250)
+st.image("../assets/pdf.png", width=250)
 st.header("Unir PDFs")
 st.subheader("Adjuntar PDF para unirlos")
 
